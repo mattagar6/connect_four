@@ -1,0 +1,29 @@
+.jumbotron{
+  background-color: #e2e05a;
+  text-align: center;
+}
+
+#head1 {
+  margin-bottom: 20px;
+}
+
+#head5 {
+  margin-bottom: 20px;
+}
+
+body{
+  font-family: 'Roboto Mono', monospace;
+}
+
+.board button{
+  width:75px;
+  height: 75px;
+  background-color: rgb(128,128,128);
+  margin: 1px;
+  border: 2px solid black;
+  border-radius: 50%;
+}
+
+.container{
+  padding: 25px;
+}
